@@ -103,25 +103,19 @@ trade-offs across different branch behaviors.
 
 #### References
 
-1. P. Seznec, *“A Comprehensive Look at Modern Branch Predictors,”* IEEE Micro, 2020.  
-   https://ieeexplore.ieee.org/document/9099113
+1. D. A. Jiménez and C. Lin, *“Neural Methods for Dynamic Branch Prediction,”* ACM Transactions on Computer Systems, 2002.  
+   https://www.cs.utexas.edu/~lin/papers/tocs02.pdf :contentReference[oaicite:0]{index=0}
 
-2. S. Sethumadhavan et al., *“Neural Branch Prediction: A 20-Year Retrospective,”* IEEE Computer, 2022.  
-   https://ieeexplore.ieee.org/document/9833475
+2. T. Ball and J. Larus, *“Branch Prediction for Free,”* Proceedings of the SIGPLAN ’93 Conference on Programming Language Design and Implementation, 1993.  
+   https://scholar.google.com/scholar?q=Branch+Prediction+for+Free+Ball+Larus
 
-3. H. Wang et al., *“Tagenn: Combining TAGE with Neural Predictors for Hybrid Branch Prediction,”*  
-   Proceedings of the International Symposium on Computer Architecture (ISCA), 2023.  
-   https://ieeexplore.ieee.org/document/10158145
+3. T. Y. Yeh and Y. N. Patt, *“Two-Level Adaptive Training Branch Prediction,”* Proceedings of the International Symposium on Computer Architecture (ISCA), 1993.  
+   https://scholar.google.com/scholar?q=Two-Level+Adaptive+Training+Branch+Prediction+Yeh+Patt
 
-4. D. H. Schall and I. U. Schall, *“The Last-Level Branch Predictor,”*  
-   Proceedings of the ACM/IEEE International Symposium on Computer Architecture (ISCA), June 2024.  
-   https://ieeexplore.ieee.org/document/10546789
+4. C.-C. Lee, C. C. Chen, and T. N. Mudge, *“The Bi-Mode Branch Predictor,”* Proceedings of the 30th International Symposium on Computer Architecture, 1997.  
+   https://scholar.google.com/scholar?q=Bi-Mode+Branch+Predictor+Lee+Chen+Mudge
 
-5. J. Yavarzadeh and S. Stefan, *“Half&Half: Demystifying Intel’s Directional Branch Predictors for Fast and Secure Execution,”*  
-   IEEE Micro, October 2023.  
-   https://ieeexplore.ieee.org/document/10288570
+5. Zangeneh et al., *“BranchNet: A Convolutional Neural Network to Predict Hard Branches,”* Microarchitecture paper (online PDF).  
+   https://hps.ece.utexas.edu/pub/BranchNet_Micro2020.pdf :contentReference[oaicite:1]{index=1}
 
-6. T. Nguyen et al., *“Reverse-Engineering Intel’s Latest Branch Predictors,”*  
-   IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2023.  
-   https://ieeexplore.ieee.org/document/10158174
 
